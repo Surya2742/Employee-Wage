@@ -2,9 +2,8 @@
 public class UC4 {
 
 	public static void main(String[] args) {
-	int Full_Time_Working = 1;
+		
 	int Full_Time_Hour = 8;
-	int IS_PART_TIME = 2;
 	int Part_Time_Hour = 4;
 	int Wage_per_Hour = 20;
 	int Emp_Check = (int) Math.floor(Math.random() * 3 );
