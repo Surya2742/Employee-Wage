@@ -23,6 +23,7 @@ public class UC8 {
 			this.workingDays=workingDays;
 			this.maxHoursPerMonth=maxHoursPerMonth;
 			}
+		
 		public int calculateTotalEmpWage() {
 			int empHrs=0;
 			int totalDays=0;
